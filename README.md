@@ -1,6 +1,4 @@
 # REGULAR-EXPRESSION  
-CSE420 (Compiler) Lab  
-Assignment 3  
 Problem Description:  
 In this assignment, you will work on regular expression. For simplicity, we will assume that there is a fixed set of regular expressions. We will not consider out of these. But you must not use any built-in method or package in your implementation. If you need any method, you will write that.In Regular Expression (RE), '*' means occurrence of zero of more characters, '+' indicates happening of one or more characters, '?'  means only once or not at all occurrence, '[ ]' indicates happening of inclusive characters, '^' indicates that next characters will not be used in the pattern, '[a-d]{3}' indicates that valid string will be exactly of  length 3 inclusively using a, b, c, d. The following table contains a fixed set of RE that will be used in our assignment.  
 Description	RE	Valid	Invalid  
